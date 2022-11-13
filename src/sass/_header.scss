@@ -1,3 +1,20 @@
+ul {
+  list-style: none;
+}
+
+.navigation-list {
+  display: flex;
+}
+.header-container {
+  display: flex;
+}
 .header {
   background-color: tomato;
+}
+
+.logo {
+  color: rgba(40, 167, 69, 1);
+}
+.logo-second-part {
+  color: #ffff;
 }
