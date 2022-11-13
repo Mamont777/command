@@ -1,3 +1,60 @@
 .solutions {
-    background-color: blue;
+  display: flex;
+  background-color: #28a745;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  display: block;
+  cursor: pointer;
+  border: none;
+}
+
+.solutions-text {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+
+  color: #ffffff;
+}
+
+.solutions-title {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 1.26;
+
+  color: #ffffff;
+}
+
+.solutions-about {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+
+  color: #ffffff;
+}
+
+.solutions-btn {
+  width: 167px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
 }
