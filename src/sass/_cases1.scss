@@ -1,0 +1,46 @@
+.cases-section {
+  width: 1360px;
+}
+
+.cases-list {
+  list-style: none;
+}
+
+.cases-first-text {
+  margin-bottom: 15px;
+
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 33px;
+  text-align: center;
+
+  color: #333333;
+}
+
+.cases-title {
+  margin-bottom: 34px;
+
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #333333;
+}
+
+.cases-second-text {
+  margin-bottom: 39px;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #333333;
+}
+
+.cases-list {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
